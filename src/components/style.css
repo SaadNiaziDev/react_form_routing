@@ -1,0 +1,34 @@
+.layer{
+    border: 2px solid black;
+    border-radius: 25px;
+    width:500px;
+    height:175px;
+    background-color: gainsboro
+}
+
+.center{
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.input{
+    width: 90%;
+    height: 10%;
+    border-radius: 20px;
+    margin:10px;
+}
+
+.button-proceed{
+    width: 100px;
+    height: 30px;
+    background-color:rgb(131, 131, 156);
+    border-radius:10px;
+}
+
+.button-cancel{
+    width: 100px;
+    height: 30px;
+    background-color:red;
+    border-radius:10px;
+}
